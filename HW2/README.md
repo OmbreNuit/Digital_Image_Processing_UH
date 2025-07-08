@@ -1,7 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/C1LdbiEg)
-# Digital Image Processing 
-Assignment #2 (Shape Counting)
-Due: Thu 03/21/24 11:59 PM
+
+# (Shape Counting)
+Assignment #2 
 
 __________________________________________________________________________________________________________________
 Objective 1: The input image contains objects of four geometric shapes: circle, square, rectangle, and ellipse. The shapes have a brighter intensity compared to the background. The objective of the assignment is to count the total number of each geometric shape in the image by performing binary image processing. The overall steps are 
@@ -128,10 +127,3 @@ Please make sure that your code is running without errors on Jenkins CI/CD.
     Total          - 100 Pts.
 _______________________________________________________________________________________________________________________
 
-<sub><sup>License: Property of Quantitative Imaging Laboratory (QIL), Department of Computer Science, University of Houston.
-This software is the property of the QIL, and should not be distributed, reproduced, or shared online, without the permission of the author
-This software is intended to be used by students of the digital image processing course offered at the University of Houston.
-The contents are not to be reproduced and shared with anyone without the permission of the author.
-The contents are not to be posted on any online public hosting websites without the permission of the author.
-The software is cloned and is available to the students for the duration of the course.
-At the end of the semester, the Github organization is reset and hence all the existing repositories are reset/deleted, to accommodate the next batch of students.</sub></sup>
