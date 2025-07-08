@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/qAfTpIeA)
+
 # Digital Image Processing 
 Assignment #1
 
@@ -89,7 +89,5 @@ Part| Name                     | Pts
 
 -----------------------
 
-<sub><sup>
-License: Property of Quantitative Imaging Laboratory (QIL), Department of Computer Science, University of Houston. This software is the property of the QIL, and should not be distributed, reproduced, or shared online, without the permission of the author This software is intended to be used by students of the digital image processing course offered at the University of Houston. The contents are not to be reproduced or shared with anyone without the author's permission. The contents are not to be posted on any online public hosting websites without the author's permission. The software is cloned and available to the students for the course duration. At the end of the semester, the GitHub organization is reset, and hence all the existing repositories are reset/deleted, to accommodate the next batch of students.
-</sub></sup>
+
 
